@@ -38,7 +38,7 @@ Il programma è stato creato utilizzando un file di script di AutoHotKey (dispon
 
 ## Installazione
 
-1. Scaricare il file ZIP dell'ultima versione: https://github.com/ewilio/maiuscole-accentate-tastiera-italiana/releases
+1. Scaricare il file ZIP dell'ultima versione dalla sezione `Releases`.
 
 2. Premere Start, digitare "Esegui" (o `WIN+R`) e digitare `shell:startup`.
 
