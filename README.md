@@ -1,13 +1,13 @@
-# Maiuscole accentate e Caratteri Extra per Tastiera con Layout US
+# Maiuscole Accentate e Caratteri Extra per Tastiera con Layout US
 
 <img src="https://github.com/ewilio/maiuscole-accentate-tastiera-usa/blob/main/extrakeys-usa.png" alt="Anteprima" width="80%"/>
 
-Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali accentate maiuscole usate in Italiano ``À È É Ì Ò Ù`` tramite tastiera layout USA (layout ANSI).
+Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali accentate maiuscole e minuscole usate in Italiano ``À È É Ì Ò Ù`` e `à è é ì ò ù` tramite una tastiera con layout USA (ANSI).
 
-Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”`` e la lineetta emme ``—``, il simbolo di euro ``€`` e sterlina
+Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”`` e la lineetta emme ``—``, il simbolo di euro ``€`` e sterlina ``£``.
 
-Le combinazioni di tasti sono state collocate in modo logico in tasti non standard per non avere conflitti con altri programmi. 
-In particolare, le maiuscole accentate sono state posizionate dove si troverebbero in un layout QWERTY italiano.
+Le combinazioni di tasti sono state collocate in modo logico in tasti non standard per non avere conflitti con altri programmi.
+> In particolare, le maiuscole accentate sono state posizionate dove si troverebbero in un layout QWERTY italiano.
 
 Il programma è stato creato utilizzando un file di script di AutoHotKey (disponibile nello ZIP) e può essere eseguito e lasciato in esecuzione fintanto che lo si desidera. Il consumo di memoria è molto basso e non va ad impattare le risorse del sistema operativo.
 
