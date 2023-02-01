@@ -4,10 +4,10 @@
 
 Lo script aggiunge combinazioni di tasti rapidi per digitare le vocali accentate maiuscole e minuscole usate in Italiano ``À È É Ì Ò Ù`` e `à è é ì ò ù` tramite una tastiera con layout USA (ANSI).
 
-Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”`` e la lineetta emme ``—``, il simbolo di euro ``€`` e sterlina ``£``.
+Altri caratteri tipografici che possono essere utili sono l'apostrofo ``’``, le virgolette basse doppie ``« »``, le virgolette alte doppie ``“ ”``, la lineetta emme ``—``, il simbolo di euro ``€`` e sterlina ``£``.
 
 Le combinazioni di tasti sono state collocate in modo logico in tasti non standard per non avere conflitti con altri programmi.
-> In particolare, le maiuscole accentate sono state posizionate dove si troverebbero in un layout QWERTY italiano.
+> In particolare, le vocali accentate sono state posizionate dove si troverebbero in un layout QWERTY italiano.
 
 Il programma è stato creato utilizzando un file di script di AutoHotKey (disponibile nello ZIP) e può essere eseguito e lasciato in esecuzione fintanto che lo si desidera. Il consumo di memoria è molto basso e non va ad impattare le risorse del sistema operativo.
 
@@ -15,14 +15,14 @@ Il programma è stato creato utilizzando un file di script di AutoHotKey (dispon
 
 | Tasti                     | Risultato | Note                                |
 | ------------------------- | --------- | ----------------------------------- |
-| `CTRL` + `SHIFT` + `;`    | `à`       | A minuscola con accento grave       |
-| `CTRL` + `ALT` + `;`      | `À`       | A maiuscola con accento grave       |
+| `CTRL` + `SHIFT` + `'`    | `à`       | A minuscola con accento grave       |
+| `CTRL` + `ALT` + `'`      | `À`       | A maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `[`    | `è`       | E minuscola con accento grave       |
 | `CTRL` + `ALT` + `[`      | `È`       | E maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `]`    | `é`       | E minuscola con accento acuto       |
 | `CTRL` + `ALT` + `]`      | `É`       | E maiuscola con accento acuto       |
-| `CTRL` + `SHIFT` + `'`    | `ò`       | O minuscola con accento grave       |
-| `CTRL` + `ALT` + `'`      | `Ò`       | O maiuscola con accento grave       |
+| `CTRL` + `SHIFT` + `;`    | `ò`       | O minuscola con accento grave       |
+| `CTRL` + `ALT` + `;`      | `Ò`       | O maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `\`    | `ù`       | U minuscola con accento grave       |
 | `CTRL` + `ALT` + `\`      | `Ù`       | U maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `=`    | `ì`       | I minuscola con accento grave       |

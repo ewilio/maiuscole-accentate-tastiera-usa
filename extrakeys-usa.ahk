@@ -1,7 +1,7 @@
 ﻿#Requires AutoHotkey v2.0
 InstallKeybdHook
 ;---------------------------------------;
-;- Maiuscole accentate per tastiera US -;ìì
+;- Maiuscole accentate per tastiera US -;
 ;---------------------------------------;
 ^+SC01A::Send "è"
 ^!SC01A::Send "È"
@@ -12,11 +12,11 @@ InstallKeybdHook
 ^+SC02B::Send "ù"
 ^!SC02B::Send "Ù"
 
-^+SC027::Send "à"
-^!SC027::Send "À"
+^+SC027::Send "ò"
+^!SC027::Send "Ò"
 
-^+SC028::Send "ò"
-^!SC028::Send "Ò"
+^+SC028::Send "à"
+^!SC028::Send "À"
 
 ^+SC00D::Send "ì"
 ^!SC00D::Send "Ì"
