@@ -27,7 +27,7 @@ Il programma è stato creato utilizzando un file di script di AutoHotKey (dispon
 | `CTRL` + `ALT` + `\`      | `Ù`       | U maiuscola con accento grave       |
 | `CTRL` + `SHIFT` + `=`    | `ì`       | I minuscola con accento grave       |
 | `CTRL` + `ALT` + `=`      | `Ì`       | I maiuscola con accento grave       |
-| `CTRL` + `SHIFT` + ``\``` | `’`       | Apostrofo                           |
+| `CTRL` + `SHIFT` + `\```  | `’`       | Apostrofo                           |
 | `CTRL` + `SHIFT` + `,`    | `«`       | Virgolette basse doppie di apertura |
 | `CTRL` + `SHIFT` + `.`    | `»`       | Virgolette basse doppie di chiusura |
 | `CTRL` + `ALT` + `,`      | `“`       | Virgolette alte doppie di apertura  |
@@ -35,7 +35,7 @@ Il programma è stato creato utilizzando un file di script di AutoHotKey (dispon
 | `CTRL` + `SHIT` + `-`     | `—`       | Lineetta emme (em dash)             |
 | `CTRL` + `SHIT` + `E`     | `€`       | Euro                                |
 | `CTRL` + `SHIT` + `4`     | `£`       | Sterlina (Pound sterling)           |
-
+| `CTRL` + `SHIT` + `0`     | `°`       | Grado                               |
 ## Installazione
 
 1. Scaricare il file ZIP dell'ultima versione dalla sezione `Releases`.

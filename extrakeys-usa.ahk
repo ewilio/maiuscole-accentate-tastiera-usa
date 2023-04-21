@@ -32,3 +32,5 @@ InstallKeybdHook
 ^+`::Send "’"
 
 ^+SC00C::Send "—"
+
+^+SC00B::Send "°"
